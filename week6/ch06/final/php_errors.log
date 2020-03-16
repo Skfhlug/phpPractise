@@ -1,0 +1,68 @@
+[27-Feb-2019 01:19:59 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php on line 19
+[27-Feb-2019 01:19:59 UTC] PHP Stack trace:
+[27-Feb-2019 01:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:0
+[27-Feb-2019 01:19:59 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:19
+[27-Feb-2019 01:19:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php on line 23
+[27-Feb-2019 01:19:59 UTC] PHP Stack trace:
+[27-Feb-2019 01:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:0
+[27-Feb-2019 01:19:59 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:23
+[27-Feb-2019 01:19:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php on line 28
+[27-Feb-2019 01:19:59 UTC] PHP Stack trace:
+[27-Feb-2019 01:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:0
+[27-Feb-2019 01:19:59 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:28
+[27-Feb-2019 01:19:59 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php on line 47
+[27-Feb-2019 01:19:59 UTC] PHP Stack trace:
+[27-Feb-2019 01:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:0
+[27-Feb-2019 01:19:59 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:47
+[27-Feb-2019 01:20:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php on line 19
+[27-Feb-2019 01:20:04 UTC] PHP Stack trace:
+[27-Feb-2019 01:20:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:0
+[27-Feb-2019 01:20:04 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:19
+[27-Feb-2019 01:20:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php on line 23
+[27-Feb-2019 01:20:04 UTC] PHP Stack trace:
+[27-Feb-2019 01:20:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:0
+[27-Feb-2019 01:20:04 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:23
+[27-Feb-2019 01:20:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php on line 28
+[27-Feb-2019 01:20:04 UTC] PHP Stack trace:
+[27-Feb-2019 01:20:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:0
+[27-Feb-2019 01:20:04 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:28
+[27-Feb-2019 01:20:04 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php on line 47
+[27-Feb-2019 01:20:04 UTC] PHP Stack trace:
+[27-Feb-2019 01:20:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:0
+[27-Feb-2019 01:20:04 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:47
+[27-Feb-2019 02:14:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php on line 28
+[27-Feb-2019 02:14:55 UTC] PHP Stack trace:
+[27-Feb-2019 02:14:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:0
+[27-Feb-2019 02:14:55 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:28
+[27-Feb-2019 02:14:58 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php on line 19
+[27-Feb-2019 02:14:58 UTC] PHP Stack trace:
+[27-Feb-2019 02:14:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:0
+[27-Feb-2019 02:14:58 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:19
+[27-Feb-2019 02:14:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php on line 23
+[27-Feb-2019 02:14:58 UTC] PHP Stack trace:
+[27-Feb-2019 02:14:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:0
+[27-Feb-2019 02:14:58 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:23
+[27-Feb-2019 02:14:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php on line 28
+[27-Feb-2019 02:14:58 UTC] PHP Stack trace:
+[27-Feb-2019 02:14:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:0
+[27-Feb-2019 02:14:58 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:28
+[27-Feb-2019 02:14:58 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php on line 47
+[27-Feb-2019 02:14:58 UTC] PHP Stack trace:
+[27-Feb-2019 02:14:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:0
+[27-Feb-2019 02:14:58 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:47
+[27-Feb-2019 02:15:00 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php on line 19
+[27-Feb-2019 02:15:00 UTC] PHP Stack trace:
+[27-Feb-2019 02:15:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:0
+[27-Feb-2019 02:15:00 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:19
+[27-Feb-2019 02:15:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php on line 23
+[27-Feb-2019 02:15:00 UTC] PHP Stack trace:
+[27-Feb-2019 02:15:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:0
+[27-Feb-2019 02:15:00 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:23
+[27-Feb-2019 02:15:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php on line 28
+[27-Feb-2019 02:15:00 UTC] PHP Stack trace:
+[27-Feb-2019 02:15:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:0
+[27-Feb-2019 02:15:00 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:28
+[27-Feb-2019 02:15:00 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php on line 47
+[27-Feb-2019 02:15:00 UTC] PHP Stack trace:
+[27-Feb-2019 02:15:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:0
+[27-Feb-2019 02:15:00 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/spring2019/week6/ch06/final/guitarwars/index.php:47

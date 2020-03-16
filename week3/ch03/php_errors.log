@@ -1,0 +1,8 @@
+[05-Feb-2019 19:41:02 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/spring2019/week3/ch03/page128/addemail.php on line 12
+[05-Feb-2019 19:41:02 UTC] PHP Stack trace:
+[05-Feb-2019 19:41:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/week3/ch03/page128/addemail.php:0
+[05-Feb-2019 19:41:02 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/spring2019/week3/ch03/page128/addemail.php:12
+[05-Feb-2019 19:41:02 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/spring2019/week3/ch03/page128/addemail.php on line 12
+[05-Feb-2019 19:41:02 UTC] PHP Stack trace:
+[05-Feb-2019 19:41:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/week3/ch03/page128/addemail.php:0
+[05-Feb-2019 19:41:02 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/spring2019/week3/ch03/page128/addemail.php:12
